@@ -1,0 +1,15 @@
+C:\Users\anngu\Desktop\OOP\Lesson4n5\obj\Debug\net7.0\Lesson4n5.csproj.AssemblyReference.cache
+C:\Users\anngu\Desktop\OOP\Lesson4n5\obj\Debug\net7.0\Lesson4n5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anngu\Desktop\OOP\Lesson4n5\obj\Debug\net7.0\Lesson4n5.AssemblyInfoInputs.cache
+C:\Users\anngu\Desktop\OOP\Lesson4n5\obj\Debug\net7.0\Lesson4n5.AssemblyInfo.cs
+C:\Users\anngu\Desktop\OOP\Lesson4n5\obj\Debug\net7.0\Lesson4n5.csproj.CoreCompileInputs.cache
+C:\Users\anngu\Desktop\OOP\Lesson4n5\bin\Debug\net7.0\Lesson4n5.exe
+C:\Users\anngu\Desktop\OOP\Lesson4n5\bin\Debug\net7.0\Lesson4n5.deps.json
+C:\Users\anngu\Desktop\OOP\Lesson4n5\bin\Debug\net7.0\Lesson4n5.runtimeconfig.json
+C:\Users\anngu\Desktop\OOP\Lesson4n5\bin\Debug\net7.0\Lesson4n5.dll
+C:\Users\anngu\Desktop\OOP\Lesson4n5\bin\Debug\net7.0\Lesson4n5.pdb
+C:\Users\anngu\Desktop\OOP\Lesson4n5\obj\Debug\net7.0\Lesson4n5.dll
+C:\Users\anngu\Desktop\OOP\Lesson4n5\obj\Debug\net7.0\refint\Lesson4n5.dll
+C:\Users\anngu\Desktop\OOP\Lesson4n5\obj\Debug\net7.0\Lesson4n5.pdb
+C:\Users\anngu\Desktop\OOP\Lesson4n5\obj\Debug\net7.0\Lesson4n5.genruntimeconfig.cache
+C:\Users\anngu\Desktop\OOP\Lesson4n5\obj\Debug\net7.0\ref\Lesson4n5.dll
