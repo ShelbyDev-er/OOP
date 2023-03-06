@@ -1,0 +1,12 @@
+﻿Staff s1 = new Staff();
+s1.Name = "Nguyen Van A";
+s1.PhoneNumber = "0945434343";
+s1.Email = "s1@gmail.com";
+s1.Department = "AI";
+s1.DateHire = 4;
+s1.Level = "Senior";
+s1.Salary = 1300;
+s1.CalculateBonus();
+s1.CalculateVacation();
+Console.WriteLine("s1.calculateBonus = " + s1.Salary);
+Console.WriteLine("s1.dateHire = " + s1.DateHire);
