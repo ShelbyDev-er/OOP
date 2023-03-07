@@ -7,6 +7,7 @@ public class Student : Management
     public string? Birthday { get; set; }
     public string? Address { get; set; }
     public string? Note { get; set; }
+    
     public int RandomId()
     {
         Random rd = new Random();
@@ -126,12 +127,12 @@ public class Student : Management
         }
         return false;
     }
-    public void ChangeStatus(bool status)
-    {
-        if (status == true)
-            status = false;
+    // public void ChangeStatus(bool status)
+    // {
+    //     if (status == true)
+    //         status = false;
 
-        else
-            status = true;
-    }
+    //     else
+    //         status = true;
+    // }
 }
