@@ -11,13 +11,13 @@ namespace Properties
         public string? ClassRoom { get; set; }
         public string? Faculty { get { return f.FullName; } }
         Faculty f = new Faculty();
-        public void Create(List<Class> list)
-        {
+        public void CreateClass(List<Class> list)
+        {   
 
-        }
-        public void Read(List<Class> list)
-        {
-
-        }
+        }       
+        public void ReadClassesList(List<Class> list)
+        {   
+            
+        }   
     }
 }

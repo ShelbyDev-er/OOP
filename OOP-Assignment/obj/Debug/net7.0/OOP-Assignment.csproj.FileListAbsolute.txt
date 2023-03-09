@@ -13,3 +13,33 @@ C:\Users\anngu\Desktop\OOP-Assignment\obj\Debug\net7.0\refint\OOP-Assignment.dll
 C:\Users\anngu\Desktop\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.pdb
 C:\Users\anngu\Desktop\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.genruntimeconfig.cache
 C:\Users\anngu\Desktop\OOP-Assignment\obj\Debug\net7.0\ref\OOP-Assignment.dll
+C:\Users\NGUYEN THIEN AN\Desktop\OOP\OOP-Assignment\bin\Debug\net7.0\OOP-Assignment.exe
+C:\Users\NGUYEN THIEN AN\Desktop\OOP\OOP-Assignment\bin\Debug\net7.0\OOP-Assignment.deps.json
+C:\Users\NGUYEN THIEN AN\Desktop\OOP\OOP-Assignment\bin\Debug\net7.0\OOP-Assignment.runtimeconfig.json
+C:\Users\NGUYEN THIEN AN\Desktop\OOP\OOP-Assignment\bin\Debug\net7.0\OOP-Assignment.dll
+C:\Users\NGUYEN THIEN AN\Desktop\OOP\OOP-Assignment\bin\Debug\net7.0\OOP-Assignment.pdb
+C:\Users\NGUYEN THIEN AN\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.csproj.AssemblyReference.cache
+C:\Users\NGUYEN THIEN AN\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN THIEN AN\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.AssemblyInfoInputs.cache
+C:\Users\NGUYEN THIEN AN\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.AssemblyInfo.cs
+C:\Users\NGUYEN THIEN AN\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN THIEN AN\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.dll
+C:\Users\NGUYEN THIEN AN\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\refint\OOP-Assignment.dll
+C:\Users\NGUYEN THIEN AN\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.pdb
+C:\Users\NGUYEN THIEN AN\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.genruntimeconfig.cache
+C:\Users\NGUYEN THIEN AN\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\ref\OOP-Assignment.dll
+C:\Users\anngu\Desktop\OOP\OOP-Assignment\bin\Debug\net7.0\OOP-Assignment.exe
+C:\Users\anngu\Desktop\OOP\OOP-Assignment\bin\Debug\net7.0\OOP-Assignment.deps.json
+C:\Users\anngu\Desktop\OOP\OOP-Assignment\bin\Debug\net7.0\OOP-Assignment.runtimeconfig.json
+C:\Users\anngu\Desktop\OOP\OOP-Assignment\bin\Debug\net7.0\OOP-Assignment.dll
+C:\Users\anngu\Desktop\OOP\OOP-Assignment\bin\Debug\net7.0\OOP-Assignment.pdb
+C:\Users\anngu\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.csproj.AssemblyReference.cache
+C:\Users\anngu\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anngu\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.AssemblyInfoInputs.cache
+C:\Users\anngu\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.AssemblyInfo.cs
+C:\Users\anngu\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\anngu\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.dll
+C:\Users\anngu\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\refint\OOP-Assignment.dll
+C:\Users\anngu\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.pdb
+C:\Users\anngu\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\OOP-Assignment.genruntimeconfig.cache
+C:\Users\anngu\Desktop\OOP\OOP-Assignment\obj\Debug\net7.0\ref\OOP-Assignment.dll

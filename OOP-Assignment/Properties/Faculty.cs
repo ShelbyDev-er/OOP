@@ -1,24 +1,9 @@
 using Interface;
-
+using Utils;
 namespace Properties
 {
-    public class Faculty : Person, IPerson<Faculty>
+    public class Faculty : Person
     {
-        public void Create(List<Faculty> list)
-        {
-
-        }
-        public void Read(List<Faculty> list)
-        {
-
-        }
-        public void Update(List<Faculty> list)
-        {
-
-        }
-        public void Delete(List<Faculty> list)
-        {
-
-        }
+       
     }
 }

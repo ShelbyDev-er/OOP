@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anngu\\Desktop\\OOP-Assignment\\OOP-Assignment.csproj": {}
+    "C:\\Users\\anngu\\Desktop\\OOP\\OOP-Assignment\\OOP-Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anngu\\Desktop\\OOP-Assignment\\OOP-Assignment.csproj": {
+    "C:\\Users\\anngu\\Desktop\\OOP\\OOP-Assignment\\OOP-Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anngu\\Desktop\\OOP-Assignment\\OOP-Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\anngu\\Desktop\\OOP\\OOP-Assignment\\OOP-Assignment.csproj",
         "projectName": "OOP-Assignment",
-        "projectPath": "C:\\Users\\anngu\\Desktop\\OOP-Assignment\\OOP-Assignment.csproj",
+        "projectPath": "C:\\Users\\anngu\\Desktop\\OOP\\OOP-Assignment\\OOP-Assignment.csproj",
         "packagesPath": "C:\\Users\\anngu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anngu\\Desktop\\OOP-Assignment\\obj\\",
+        "outputPath": "C:\\Users\\anngu\\Desktop\\OOP\\OOP-Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anngu\\AppData\\Roaming\\NuGet\\NuGet.Config",

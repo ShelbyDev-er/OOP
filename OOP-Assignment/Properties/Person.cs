@@ -1,5 +1,7 @@
-namespace Properties {
-    public class Person {
+namespace Properties
+{
+    public class Person
+    {
         public int Id { set; get; }
         public string? FirstName { set; get; }
         public string? MiddleName { set; get; }
@@ -10,8 +12,9 @@ namespace Properties {
         public string? Address { set; get; }
         public string? Note { set; get; }
         public string? Status { set; get; }
-        public string FullName {
-            get { return FirstName + " " + MiddleName + " " + LastName; }
+        public string FullName
+        {
+            get { return $"{FirstName} {MiddleName} {LastName}".Trim(); }
         }
     }
 }
